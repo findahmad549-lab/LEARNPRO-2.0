@@ -1,0 +1,11 @@
+{
+  "name": "EduSpark",
+  "description": "EduSpark - Next-Gen AI-Powered Student Learning Platform, Exam Prep, DPP Generator, 3D Flashcards, Mind Maps, and AI Test Series.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
